@@ -13,7 +13,7 @@ let fs = require("fs");
 let BigNumber = require("big-number")
 
 //let method = require('./method.js');
-let contract = require('./contract.js');
+let contract = require('./bazzpun_contract.js');
 
 // this sets up my .env file
 require('dotenv').config()
